@@ -1,9 +1,14 @@
-# WELCOME BRANCH MESSAGE
-# Code Name - Hornet
+# Programmer: Christopher Villarimo
+# Date: 2.21.2022
+# Version 1.1
 
 
+# Libraries Imported Here
+import random
 from time import sleep #Print to one line with time delay between prints
 
+# WELCOME BRANCH MESSAGE
+# Code Name - Hornet
 
 print("\033[1;34;40m Welcome to Hornets InfoTechCenter\n")
 
@@ -15,7 +20,7 @@ sleep(2)
 
 #GAS BRANCH
 
-import random
+
 
 # Gas Level Function
 
